@@ -153,8 +153,9 @@
                     <img src="img/slots20.png" alt="">
                 </a>
             </div>
-   <h1 style="color: white !important;margin: 0 !important;font-size: 5px;line-height: 1;">casino online, slots video games, bet, 888,  line esports </h1>
+
         </div>
+           <h1 style="color: white !important;margin: 0 !important;font-size: 5px;line-height: 1;">casino online, slots video games, bet, 888,  line esports </h1>
     </div>
     <script src="./Play Mega Buffalo_files/jquery.min.js.Без названия"></script>
     <script src="./Play Mega Buffalo_files/bootstrap.min.js.Без названия"></script>
