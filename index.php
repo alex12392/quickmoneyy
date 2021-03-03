@@ -1,5 +1,4 @@
 <!DOCTYPE html>
- -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -154,7 +153,7 @@
                     <img src="img/slots20.png" alt="">
                 </a>
             </div>
-    <h1 style="color: white !important;">casino online, slots video games, bet, 888,  line esports </h1>  
+   <h1 style="color: white !important;margin: 0 !important;font-size: 5px;line-height: 1;">casino online, slots video games, bet, 888,  line esports </h1>
         </div>
     </div>
     <script src="./Play Mega Buffalo_files/jquery.min.js.Без названия"></script>
