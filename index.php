@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0030)https://buffaloslotsbonus.com/ -->
+ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -154,7 +154,7 @@
                     <img src="img/slots20.png" alt="">
                 </a>
             </div>
-
+    <h1 style="color: white !important;">casino online, slots video games, bet, 888,  line esports </h1>  
         </div>
     </div>
     <script src="./Play Mega Buffalo_files/jquery.min.js.Без названия"></script>
